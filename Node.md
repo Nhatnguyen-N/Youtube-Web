@@ -5,6 +5,7 @@ day 2:  1:53:54.
 day 3:  3:30:49.
 day 4:  4:48:03.
 day 5:  6:07:12.
+day 6:  7:00:56.
 
 
 -Neon,clerk, 
@@ -12,3 +13,4 @@ day 5:  6:07:12.
 -ngrok(webhook)
 -tRPC
 -upstash--> giới hạn gọi api trong một khoảng thời gian. 
+-mux ----> upload video
