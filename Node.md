@@ -8,6 +8,7 @@ day 5:  6:07:12.
 day 6:  7:00:56.
 day 7:  8:12:58.
 day 8:  9:08:01.
+day 9:  10:12:08.
 
 
 -Neon,clerk, 
@@ -16,3 +17,4 @@ day 8:  9:08:01.
 -tRPC
 -upstash--> giới hạn gọi api trong một khoảng thời gian. 
 -mux ----> upload video
+-uploadthing---> thumbnail upload
